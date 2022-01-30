@@ -10,9 +10,7 @@ Notes:
 
 Visual customization in Kibana
 1. Custom HTTPJSON INPUT intergrationn - data input
-   
 1. SCSS file - color palette management
-
 1. test 
 
 
